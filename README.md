@@ -1,2 +1,8 @@
 # learn-cloud-50
-my playground
+
+## Done
+- test on another machine
+- check the docs again
+- backup first
+
+— end —
